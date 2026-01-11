@@ -23,7 +23,7 @@ line-height: 1;
     font-size: 51px;
     text-shadow: #C38B61 1px 1px, #000 0px 0px, #000 1px 1px, #000 2px 2px, #000 3px 3px, #C38B61 4px 4px, #000 5px 5px;
     color: #FAECC5;
-    filter: brightness(1.1) contrast(1.0) drop-shadow(2px 4px 6px black);
+        filter: brightness(1.0) contrast(1.2) drop-shadow(2px 4px 10px rgba(183, 0, 0, 0.2));
 }
 
 
@@ -123,3 +123,4 @@ top:0px;
 
 
 }
+
