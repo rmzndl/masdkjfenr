@@ -19,7 +19,7 @@ line-height: 1;
     
 }
 .main-text .main-text2:after{
-    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgbf7Ny_3mNCZ2P3o9xYLBA-xJ5Cwh0Fun0ubkb21GEc8ZCoU0-xFOLr1JHp2DAxwXjraiETtTLAoOcdXNiFb4dBRQGn1SZJ7X6BplmlnrHYkGiglqj5tcGSrRBEeaYj__iWpMuGbNfieUe9FMXQjX-Zlrc_iAfnFe-TvPQYQO3oTv8LIUl45CBt_0Xi8/s16000/%EB%A7%88%EB%AA%AC%EB%A1%9C%EA%B3%A0.webp);
+    content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeXijHTzf4OSaWln0YkCMM7pI9Y7v9wtjrmntocN2W5ec5dW-pLCnzUoNfiCMKm5_8foz-iZsfiSWWjr9wCOfZUKyTIavAJdXZKXOmDdCarWoRzaw5GXNK98iRoqBDJ9G_E8JF4j5g8ro9A6y0ePSei3lqNICobXtHRxmgj_H17Z3rzC682wzAy8NTcinF/s16000/%EB%A7%88%EB%AA%AC%EB%A1%9C%EA%B3%A02.webp);
     font-size: 51px;
     text-shadow: #C38B61 1px 1px, #000 0px 0px, #000 1px 1px, #000 2px 2px, #000 3px 3px, #C38B61 4px 4px, #000 5px 5px;
     color: #FAECC5;
@@ -120,5 +120,6 @@ top:0px;
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+
 
 }
